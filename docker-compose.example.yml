@@ -1,6 +1,6 @@
 services:
   autodns:
-    image: ghcr.io/baker-scripts/autodns:develop@sha256:53a4878fb3336a2cca03e1f3bca1cbae4063a6743eb94e5d0e8ebd2e96c15cd3
+    image: ghcr.io/baker-scripts/autodns:develop@sha256:a75d4f621274d8bffea1c4178f957721c951a012390bae1f84b21b6ca1ed40a7
     ports:
       - "4295:4295"
     volumes:
